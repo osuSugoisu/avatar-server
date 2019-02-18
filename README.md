@@ -1,2 +1,2 @@
 # avatar-server
-Avatar Server for Sugoisu Using Flask to run
+Once you installed it you go into your console and type ```python3.5 avatarserver.py```
